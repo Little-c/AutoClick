@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="被测应用包名.test"
+    package="com.tuotuo.solo.test"
     android:versionCode="1"
     android:versionName="1.1">
 
@@ -15,7 +15,7 @@
 
     <instrumentation
         android:name="com.heyniu.auto.InstrumentationTestRunner"
-        android:targetPackage="被测应用包名" />
+        android:targetPackage="com.tuotuo.solo" />
 
     <application
         android:icon="@drawable/ic_launcher"

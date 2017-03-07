@@ -6,70 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83063bc-493d-4f22-a002-bbd2d974e657" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/ActivityUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/Clicker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/DesignUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/ScreenshotTaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/Scroller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/SharedPreferencesHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/heyniu/auto/TimeUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/AcrossApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Asserter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/By.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Checker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Clicker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Condition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/CrashHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/DesignUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/DialogUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/FileUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/GLRenderWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Getter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Illustration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Illustrator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/InstrumentationTestRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Intent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/IntentParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/JsonParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Log.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/MD5Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/PackageSingleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ParamEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ParamsEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Permission.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Presser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/PressurePoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/RandomUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Reflect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/RobotiumTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/RobotiumUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/RobotiumWeb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/RobotiumWebClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Rotator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ScreenshotTaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Scroller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Searcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Sender.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Setter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/SharedPreferencesHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Sleeper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Solo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Swiper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/SystemUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Tapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/TextEnterer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/TimeUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Timeout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ViewFetcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/ViewLocationComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Waiter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/WebElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/WebElementCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/WebUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robotium/solo/Zoomer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_6_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/gson-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/recyclerview-v7-23.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/robotium-solo-5.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/support-v4-23.3.0.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoClick.iml" afterPath="$PROJECT_DIR$/AutoClick.iml" />
@@ -85,6 +29,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -94,63 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="InstrumentationTestRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/InstrumentationTestRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Handler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Handler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#5586#5587#0" expanded="true" />
-                <element signature="e#5671#5672#0" expanded="true" />
-                <element signature="e#33007#33008#0" expanded="true" />
-                <element signature="e#33066#33067#0" expanded="true" />
-                <element signature="e#33995#33996#0" expanded="true" />
-                <element signature="e#34061#34062#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Android/sdk/sources/android-24/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="165" column="12" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Clicker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Clicker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="74" column="77" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iteration.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Iteration.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/application/iteration/Iteration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+            <state relative-caret-position="-172">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,53 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Solo.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntentParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/IntentParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SharedPreferencesHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/SharedPreferencesHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="375">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -231,11 +82,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/Clicker.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/Clicker.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/IntentParser.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/Config.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/ddd.java" />
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/FileUtils.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/FileUtils.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/sadf.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/Demo.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/Intent.java" />
@@ -243,13 +94,13 @@
         <option value="$PROJECT_DIR$/src/application/iteration/factory/Handle.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/factory/ViewHandle.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/factory/GridViewHandle.java" />
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/JsonParser.java" />
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/IntentParser.java" />
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/DesignUtils.java" />
-        <option value="$PROJECT_DIR$/../robotim/src/com/robotium/solo/Solo.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/JsonParser.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/IntentParser.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/DesignUtils.java" />
+        <option value="$USER_HOME$/robotim/src/com/robotium/solo/Solo.java" />
         <option value="$PROJECT_DIR$/local.properties" />
-        <option value="$PROJECT_DIR$/../robotium/src/com/robotium/solo/JsonParser.java" />
-        <option value="$PROJECT_DIR$/../robotium/src/com/robotium/solo/Solo.java" />
+        <option value="$USER_HOME$/robotium/src/com/robotium/solo/JsonParser.java" />
+        <option value="$USER_HOME$/robotium/src/com/robotium/solo/Solo.java" />
         <option value="$PROJECT_DIR$/src/application/iteration/IterationJZ.java" />
         <option value="$PROJECT_DIR$/src/solo/ActivityUtils.java" />
         <option value="$PROJECT_DIR$/src/com/robotium/solo/ActivityUtils.java" />
@@ -268,7 +119,6 @@
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/Permission.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/Scroller.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/TimeUtils.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/JsonParser.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/ScreenshotTaker.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/ActivityUtils.java" />
@@ -278,10 +128,11 @@
         <option value="$PROJECT_DIR$/AutoClick.iml" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/SharedPreferencesHelper.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/Handler.java" />
-        <option value="$PROJECT_DIR$/src/application/iteration/Iteration.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/InstrumentationTestRunner.java" />
         <option value="$PROJECT_DIR$/src/com/heyniu/auto/Solo.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/application/iteration/Iteration.java" />
       </list>
     </option>
   </component>
@@ -293,10 +144,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -324,55 +174,31 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -382,11 +208,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iteration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoClick-cx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,24 +240,26 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AutoClick" />
+              <option name="myItemId" value="AutoClick-cx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../robotium/src/com/robotium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="device.picker.selection" value="3970ce1e" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -421,13 +267,14 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="autoclick" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34237996" />
     <property name="last.edited.regexp" value="stopped iteration: com.szhome.dongdong.LoginActivity  " />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="9dde3c" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -445,7 +292,7 @@
       <recent name="C:\Users\liumingming.YITU\workspace1\AutoClick" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Tests.test_01_iteration()">
+  <component name="RunManager" selected="Android Tests.Iteration">
     <configuration default="false" name="test01_Iteration()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
       <module name="AutoClick" />
       <option name="TESTING_TYPE" value="3" />
@@ -460,19 +307,14 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="false" name="Iteration" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
       <module name="AutoClick" />
       <option name="TESTING_TYPE" value="2" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="android.test.InstrumentationTestRunner" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="com.heyniu.auto.InstrumentationTestRunner" />
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="application.iteration.Iteration" />
       <option name="PACKAGE_NAME" value="" />
@@ -483,13 +325,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="false" name="test00_Login()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
@@ -506,13 +343,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="false" name="test_01_iteration()" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
@@ -529,13 +361,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="false" name="IterationJZ" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
@@ -552,13 +379,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -580,13 +402,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -605,16 +422,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -808,19 +617,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Android Tests.test01_Iteration()" />
       <item index="1" class="java.lang.String" itemvalue="Android Tests.Iteration" />
@@ -830,11 +626,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Android Tests.test_01_iteration()" />
-        <item index="1" class="java.lang.String" itemvalue="Android Tests.IterationJZ" />
-        <item index="2" class="java.lang.String" itemvalue="Android Tests.test01_Iteration()" />
-        <item index="3" class="java.lang.String" itemvalue="Android Tests.test00_Login()" />
-        <item index="4" class="java.lang.String" itemvalue="Android Tests.Iteration" />
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.Iteration" />
+        <item index="1" class="java.lang.String" itemvalue="Android Tests.test_01_iteration()" />
+        <item index="2" class="java.lang.String" itemvalue="Android Tests.IterationJZ" />
+        <item index="3" class="java.lang.String" itemvalue="Android Tests.test01_Iteration()" />
+        <item index="4" class="java.lang.String" itemvalue="Android Tests.test00_Login()" />
       </list>
     </recent_temporary>
   </component>
@@ -852,11 +648,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_01_iteration() - 2017.02.20 at 14h 03m 47s.xml">
-      <configuration name="test_01_iteration()" configurationId="AndroidTestRunConfigurationType" />
+    <history-entry file="Iteration - 2017.03.07 at 14h 28m 03s.xml">
+      <configuration name="Iteration" configurationId="AndroidTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="test_01_iteration() - 2017.02.20 at 14h 09m 54s.xml">
-      <configuration name="test_01_iteration()" configurationId="AndroidTestRunConfigurationType" />
+    <history-entry file="Iteration - 2017.03.07 at 14h 33m 09s.xml">
+      <configuration name="Iteration" configurationId="AndroidTestRunConfigurationType" />
     </history-entry>
     <history-entry file="test_01_iteration() - 2017.02.20 at 14h 15m 23s.xml">
       <configuration name="test_01_iteration()" configurationId="AndroidTestRunConfigurationType" />
@@ -884,41 +680,41 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2896936" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.70150864" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.89331895" sideWeight="0.496875" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13611111" sideWeight="0.496875" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30222842" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7564655" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26939654" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28987068" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51293105" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26939654" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7564655" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -966,14 +762,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/robotium/solo/Solo.java" />
     <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.3.jar!/com/robotium/solo/ViewFetcher.java" />
-    <entry file="file://D:/Android/sdk/sources/android-24/android/content/Intent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="4866" column="11" selection-start-line="4866" selection-start-column="11" selection-end-line="4866" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Android/sdk/sources/android-24/android/content/Intent.java" />
     <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.3.jar!/com/robotium/solo/Sleeper.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/DialogUtils.java" />
     <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.3.jar!/com/robotium/solo/Scroller.java" />
@@ -986,27 +775,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/ScreenshotTaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="376" column="65" selection-start-line="376" selection-start-column="20" selection-end-line="376" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/Clicker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3406">
-          <caret line="183" column="16" selection-start-line="183" selection-start-column="16" selection-end-line="183" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/ScreenshotTaker.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/Clicker.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/AcrossApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,22 +814,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Log.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/MD5Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1065,10 +826,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,10 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-          <folding>
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="115" column="57" selection-start-line="115" selection-start-column="57" selection-end-line="115" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1127,39 +877,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/Solo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="3564" column="34" selection-start-line="3564" selection-start-column="34" selection-end-line="3564" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/ActivityUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="327" column="16" selection-start-line="327" selection-start-column="16" selection-end-line="327" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/Solo.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.30.jar!/com/robotium/solo/ActivityUtils.java" />
     <entry file="jar://$PROJECT_DIR$/libs/robotium-solo-5.6.3.jar!/com/robotium/solo/ActivityUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="327" column="16" selection-start-line="327" selection-start-column="16" selection-end-line="327" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1167,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="3565" column="5" selection-start-line="3553" selection-start-column="4" selection-end-line="3565" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,31 +900,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
           <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/LogcatThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/leakcanary-android-1.5.jar!/com/squareup/leakcanary/LeakCanary.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/LogcatThread.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/leakcanary-android-1.5.jar!/com/squareup/leakcanary/LeakCanary.class" />
     <entry file="file://$PROJECT_DIR$/AutoClick.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,75 +916,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="242" column="32" selection-start-line="242" selection-start-column="32" selection-end-line="242" selection-end-column="32" />
-          <folding>
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Android/sdk/sources/android-24/android/os/Bundle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Android/sdk/sources/android-24/android/os/Bundle.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/SharedPreferencesHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="270">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Android/sdk/sources/android-24/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="165" column="12" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/IntentParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Android/sdk/sources/android-24/java/util/Map.java" />
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Clicker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="74" column="77" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
+        <state relative-caret-position="825">
+          <caret line="74" column="71" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4234#4235#0" expanded="false" />
+            <element signature="e#4279#4280#0" expanded="false" />
+            <element signature="e#5556#5557#0" expanded="false" />
+            <element signature="e#5583#5584#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5586#5587#0" expanded="true" />
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#33007#33008#0" expanded="true" />
-            <element signature="e#33066#33067#0" expanded="true" />
-            <element signature="e#33995#33996#0" expanded="true" />
-            <element signature="e#34061#34062#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/iteration/Iteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        <state relative-caret-position="11445">
+          <caret line="805" column="5" selection-start-line="805" selection-start-column="5" selection-end-line="805" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1284,7 +955,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/InstrumentationTestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
+        <state relative-caret-position="135">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1296,17 +967,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Solo.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2222">
-          <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1318,11 +986,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/Solo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="564">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heyniu/auto/IntentParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/iteration/Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1403,7 +1099,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>robotium</last-edited>
+          <last-edited>junit-4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

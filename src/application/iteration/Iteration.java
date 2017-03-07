@@ -14,7 +14,7 @@ public class Iteration extends ActivityInstrumentationTestCase2 {
     /**
      * 被测应用Activity入口
      */
-    private static final String LAUNCHER_ACTIVITY = "被测应用Activity入口";
+    private static final String LAUNCHER_ACTIVITY = "com.tuotuo.solo.view.welcome.SplashActivity";
 
     @SuppressWarnings("unchecked")
     public Iteration() throws ClassNotFoundException {
@@ -27,16 +27,16 @@ public class Iteration extends ActivityInstrumentationTestCase2 {
     public void setUp() throws Exception {
         Solo.Config config = new Solo.Config();
         // 遍历模式
-        config.mode = Solo.Config.Mode.REPTILE;
+        config.mode = Solo.Config.Mode.NORMAL;
         config.commandLogging = true;
         config.isWebForHomeActivity = false;
-        config.homeActivity = "被测应用主页Activity";
-        config.loginActivity = "被测应用登录Activity";
-        config.loginAccount = "登录帐号";
-        config.loginPassword = "登录密码";
-        config.loginId = "登录按钮ID";
-        config.ignoreActivities = new String[]{"忽略的Activity，此数组中的Activity将不会被遍历"};
-        config.ignoreViews = new String[]{"忽略的View，此数组中的View将不会被点击，需填入完整的资源ID"};
+        config.homeActivity = "com.tuotuo.solo.view.IndexPage2Activity";
+        config.loginActivity = "com.tuotuo.solo.view.welcome.MobileLoginActivity";
+        config.loginAccount = "15906626987";
+        config.loginPassword = "123456";
+        config.loginId = "next_step";
+        config.ignoreActivities = new String[]{};
+        config.ignoreViews = new String[]{};
 
         solo = new Solo(getInstrumentation(), config, getActivity());
         super.setUp();
